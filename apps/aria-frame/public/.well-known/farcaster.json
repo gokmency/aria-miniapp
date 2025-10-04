@@ -22,5 +22,8 @@
       "assistant",
       "chat"
     ]
+  },
+  "baseBuilder": {
+    "allowedAddresses": ["0xFA338cE601e188Fa7d71fF7565709343F9909Ff6"]
   }
 }
